@@ -1,0 +1,2 @@
+# TarkvaraArendusprotsessTARpe24JyriVaitmaa
+TAAPleht ehk ainemapp
